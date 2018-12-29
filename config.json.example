@@ -1,0 +1,6 @@
+{
+    "device_id": "<device id>",
+    "key": "<m2x api key>",
+    "temperature_id": "<sensor name>",
+    "humidity_id": "<sensor name>"
+}
